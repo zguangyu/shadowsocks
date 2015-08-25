@@ -12,7 +12,7 @@ setup(
     description="A fast tunnel proxy that help you get through firewalls",
     author='clowwindy',
     author_email='clowwindy42@gmail.com',
-    url='https://github.com/shadowsocks/shadowsocks',
+    url='https://github.com/zguangyu/shadowsocks',
     packages=['shadowsocks', 'shadowsocks.crypto'],
     package_data={
         'shadowsocks': ['README.rst', 'LICENSE']
